@@ -1,0 +1,26 @@
+ running on    4 total cores
+ distrk:  each k-point on    4 cores,    1 groups
+ distr:  one band on    2 cores,    2 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build Jan 01 2020 16:14:11) complex          
+  
+ POSCAR found :  1 types and       4 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Pade appr. of Perdew
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.283391954766E+03    0.28339E+03   -0.14361E+04   544   0.202E+03
+DAV:   2     0.192945725198E+01   -0.28146E+03   -0.27617E+03   520   0.379E+02
+DAV:   3    -0.179980489575E+02   -0.19928E+02   -0.19493E+02   534   0.149E+02
+DAV:   4    -0.183394125392E+02   -0.34136E+00   -0.34086E+00   576   0.259E+01
+DAV:   5    -0.183452352339E+02   -0.58227E-02   -0.58222E-02   642   0.316E+00    0.155E+01
+RMM:   6    -0.156752097074E+02    0.26700E+01   -0.37092E+01   542   0.951E+01    0.682E+00
+RMM:   7    -0.146368474782E+02    0.10384E+01   -0.59705E+00   534   0.411E+01    0.174E+00
+RMM:   8    -0.145731675565E+02    0.63680E-01   -0.64441E-02   559   0.194E+00    0.194E-01
+RMM:   9    -0.145716728781E+02    0.14947E-02   -0.63557E-03   567   0.567E-01    0.410E-02
+RMM:  10    -0.145717413047E+02   -0.68427E-04   -0.46955E-04   541   0.285E-01    0.151E-02
+RMM:  11    -0.145717419357E+02   -0.63103E-06   -0.29838E-05   345   0.515E-02
+   1 F= -.14571742E+02 E0= -.14567844E+02  d E =-.779651E-02

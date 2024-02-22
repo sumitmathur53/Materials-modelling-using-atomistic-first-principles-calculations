@@ -1,0 +1,27 @@
+Attempting to create directory /home/ankit/perl5
+ running on    4 total cores
+ distrk:  each k-point on    4 cores,    1 groups
+ distr:  one band on    2 cores,    2 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build Jan 01 2020 16:14:11) complex          
+  
+ POSCAR found :  1 types and       4 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Pade appr. of Perdew
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.280038761741E+03    0.28004E+03   -0.14423E+04   544   0.206E+03
+DAV:   2     0.186696500989E+01   -0.27817E+03   -0.27278E+03   520   0.380E+02
+DAV:   3    -0.173487771160E+02   -0.19216E+02   -0.18721E+02   540   0.151E+02
+DAV:   4    -0.176564683776E+02   -0.30769E+00   -0.30747E+00   538   0.251E+01
+DAV:   5    -0.176626784591E+02   -0.62101E-02   -0.62093E-02   646   0.338E+00    0.156E+01
+RMM:   6    -0.146984459766E+02    0.29642E+01   -0.33030E+01   545   0.906E+01    0.543E+00
+RMM:   7    -0.139281172649E+02    0.77033E+00   -0.46440E+00   537   0.365E+01    0.179E+00
+RMM:   8    -0.138541810263E+02    0.73936E-01   -0.72704E-02   562   0.191E+00    0.226E-01
+RMM:   9    -0.138521182832E+02    0.20627E-02   -0.65140E-03   571   0.598E-01    0.284E-02
+RMM:  10    -0.138521810485E+02   -0.62765E-04   -0.52291E-04   530   0.279E-01    0.145E-02
+RMM:  11    -0.138521819881E+02   -0.93960E-06   -0.39890E-05   343   0.636E-02
+   1 F= -.13852182E+02 E0= -.13849007E+02  d E =-.634947E-02
